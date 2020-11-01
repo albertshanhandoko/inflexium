@@ -17,7 +17,7 @@
   "gnetId": 12378,
   "graphTooltip": 0,
   "id": 4,
-  "iteration": 1604040077584,
+  "iteration": 1604202255112,
   "links": [],
   "panels": [
     {
@@ -338,7 +338,7 @@
               }
             ]
           },
-          "unit": "dB"
+          "unit": "none"
         },
         "overrides": []
       },
@@ -1527,7 +1527,7 @@
         "overrides": []
       },
       "gridPos": {
-        "h": 4,
+        "h": 6,
         "w": 2,
         "x": 20,
         "y": 13
@@ -1636,7 +1636,7 @@
         "overrides": []
       },
       "gridPos": {
-        "h": 4,
+        "h": 6,
         "w": 2,
         "x": 22,
         "y": 13
@@ -1971,9 +1971,9 @@
       {
         "allValue": null,
         "current": {
-          "selected": true,
-          "text": "rdVJVxfHif_Central-Farmacia1",
-          "value": "rdVJVxfHif_Central-Farmacia1"
+          "selected": false,
+          "text": "rdVJVxfHif_Central-Farmacia2",
+          "value": "rdVJVxfHif_Central-Farmacia2"
         },
         "datasource": "inflexium",
         "definition": "",
@@ -2028,5 +2028,5 @@
   "timezone": "",
   "title": "Inflexium -Círculo Católico",
   "uid": "6LB43bzZz",
-  "version": 3
+  "version": 4
 }
